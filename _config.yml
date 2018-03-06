@@ -25,10 +25,11 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - 机器学习网站1: "https://yokouestc.github.io"
+    - 好算法代码1: "https://yokouestc.github.io"
+    - 我i发货: "https://yokouestc.github.io"
+    - 我i发货2: "https://yokouestc.github.io"
+  Author's home: "https://yokouestc.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
