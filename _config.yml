@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yoko's Blog
-email: 1033034935@qq.com
+title: Simple Blog Theme
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-#baseurl: "/jekyll-theme-simple-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://YokoUESTC.gitlab.io" 
+baseurl: "https://YokoUESTC.github.io" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://YokoUESTC.github.io" # change this to the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -42,10 +42,10 @@ header:
 
 # social
 author:
-  name: "XiaomingXu"
+  name: "Simple Blog Theme"
   short_bio:
-    en: 1Jekyll Blog Theme, Responsive, SEO and Facebook enabled
-    it: 2Jekyll Blog Theme, Responsive, con SEO e integrazione Facebook
+    en: Jekyll Blog Theme, Responsive, SEO and Facebook enabled
+    it: Jekyll Blog Theme, Responsive, con SEO e integrazione Facebook
   picture: assets/img/profile-60.png
 
 image: /assets/img/profile-225.png
@@ -67,7 +67,7 @@ facebook:
 
 # gitlab on site
 gitlab:
-  owner_url: https://gitlab.com/YokoUESTC
+  owner_url: https://YokoUESTC.github.io
 
 # github on site
 github:
