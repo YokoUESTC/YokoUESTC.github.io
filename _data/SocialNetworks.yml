@@ -8,27 +8,27 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "#"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/yokouestc"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "#"
   icon: "fa-twitter"
 
 reddit:
   name: "Reddit"
-  baseURL: "https://reddit.com/u/"
+  baseURL: "#"
   icon: "fa-reddit"
 
 google-plus:
   name: "Google+"
-  baseURL: "https://plus.google.com/"
+  baseURL: "#"
   icon: "fa-google-plus"
 
 email:
@@ -38,37 +38,37 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "#"
   icon: "fa-linkedin"
 
 xing:
   name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
+  baseURL: "#"
   icon: "fa-xing"
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
+  baseURL: "#"
   icon: "fa-stack-overflow"
 
 snapchat:
   name: "Snapchat"
-  baseURL: "https://www.snapchat.com/add/"
+  baseURL: "#"
   icon: "fa-snapchat-ghost"
 
 instagram:
   name: "Instagram"
-  baseURL: "https://www.instagram.com/"
+  baseURL: "#"
   icon: "fa-instagram"
 
 youtube:
   name: "YouTube"
-  baseURL: "https://www.youtube.com/"
+  baseURL: "#"
   icon: "fa-youtube"
 
 spotify:
   name: "Spotify"
-  baseURL: "https://open.spotify.com/user/"
+  baseURL: "#"
   icon: "fa-spotify"
 
 telephone:
@@ -83,12 +83,12 @@ rss:
 
 steam:
   name: "Steam"
-  baseURL: "https://steamcommunity.com/id/"
+  baseURL: "#"
   icon: "fa-steam"
 
 twitch:
   name: "Twitch"
-  baseURL: "https://www.twitch.tv/"
+  baseURL: "#"
   icon: "fa-twitch"
 
 yelp:
